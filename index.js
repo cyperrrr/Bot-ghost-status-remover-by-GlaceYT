@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching SML"];
+const statusMessages = ["Roleplaying SML Characters"];
 
 
 let currentIndex = 0;
